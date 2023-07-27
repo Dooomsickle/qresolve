@@ -8,517 +8,433 @@
 
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\0Harmony.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="AVProVideo.Extensions.Timeline">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\AVProVideo.Extensions.Timeline.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\AVProVideo.Extensions.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="AVProVideo.Extensions.UnityUI">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\AVProVideo.Extensions.UnityUI.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\AVProVideo.Extensions.UnityUI.dll</HintPath>
     </Reference>
     <Reference Include="AVProVideo.Extensions.VisualEffectGraph">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\AVProVideo.Extensions.VisualEffectGraph.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\AVProVideo.Extensions.VisualEffectGraph.dll</HintPath>
     </Reference>
     <Reference Include="AVProVideo.Runtime">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\AVProVideo.Runtime.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\AVProVideo.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="BeeByteObfuscator">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\BeeByteObfuscator.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\BeeByteObfuscator.dll</HintPath>
     </Reference>
     <Reference Include="BlobHandles.Runtime">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\BlobHandles.Runtime.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\BlobHandles.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Cinemachine.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="clipper_library">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\clipper_library.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\clipper_library.dll</HintPath>
     </Reference>
     <Reference Include="Collections.Pooled">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Collections.Pooled.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Collections.Pooled.dll</HintPath>
     </Reference>
     <Reference Include="DataModel">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\DataModel.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\DataModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Depthkit.Core">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Depthkit.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Depthkit.Studio">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Depthkit.Studio.dll</HintPath>
+    </Reference>
+    <Reference Include="Depthkit.Studio.Lite">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Depthkit.Studio.Lite.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\DOTween.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTween.Modules">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\DOTween.Modules.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\DOTween.Modules.dll</HintPath>
     </Reference>
     <Reference Include="I18N">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\I18N.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\I18N.dll</HintPath>
     </Reference>
     <Reference Include="I18N.CJK">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\I18N.CJK.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\I18N.CJK.dll</HintPath>
     </Reference>
     <Reference Include="I18N.MidEast">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\I18N.MidEast.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\I18N.MidEast.dll</HintPath>
     </Reference>
     <Reference Include="I18N.Other">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\I18N.Other.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\I18N.Other.dll</HintPath>
     </Reference>
     <Reference Include="I18N.Rare">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\I18N.Rare.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\I18N.Rare.dll</HintPath>
     </Reference>
     <Reference Include="I18N.West">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\I18N.West.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\I18N.West.dll</HintPath>
     </Reference>
     <Reference Include="I2Loc">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\I2Loc.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\I2Loc.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppMono.Security">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppMono.Security.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppMono.Security.dll</HintPath>
     </Reference>
     <Reference Include="Il2Cppmscorlib">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2Cppmscorlib.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2Cppmscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Buffers">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Buffers.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Buffers.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Collections.Immutable">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Collections.Immutable.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Collections.Immutable.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Configuration">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Configuration.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Configuration.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Core">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Core.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Core.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Data">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Data.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Data.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Diagnostics.StackTrace">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Diagnostics.StackTrace.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Diagnostics.StackTrace.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Globalization.Extensions">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Globalization.Extensions.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Globalization.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.IO.Compression">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.IO.Compression.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.IO.Compression.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Memory">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Memory.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Memory.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Net.Http">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Net.Http.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Net.Http.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Numerics">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Numerics.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Numerics.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Numerics.Vectors">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Numerics.Vectors.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Numerics.Vectors.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Runtime">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Runtime.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Runtime.CompilerServices.Unsafe">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Runtime.Serialization">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Runtime.Serialization.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Runtime.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Threading.Tasks.Extensions">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Threading.Tasks.Extensions.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Threading.Tasks.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.ValueTuple">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.ValueTuple.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.ValueTuple.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Xml">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Xml.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Xml.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppSystem.Xml.Linq">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Il2CppSystem.Xml.Linq.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Il2CppSystem.Xml.Linq.dll</HintPath>
     </Reference>
     <Reference Include="io.sentry.unity.runtime">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\io.sentry.unity.runtime.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\io.sentry.unity.runtime.dll</HintPath>
     </Reference>
     <Reference Include="MelonLoader">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\MelonLoader.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\MelonLoader.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Btls.Interface">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Mono.Btls.Interface.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Mono.Btls.Interface.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CompilerServices.SymbolWriter">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Mono.CompilerServices.SymbolWriter.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Mono.CompilerServices.SymbolWriter.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CSharp">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Mono.CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Mono.CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Data.Sqlite">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Mono.Data.Sqlite.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Mono.Data.Sqlite.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Data.Tds">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Mono.Data.Tds.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Mono.Data.Tds.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Mono.Posix.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Security">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Mono.Security.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Mono.Security.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="nunitlite">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\nunitlite.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\nunitlite.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Oculus.Platform.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Oculus.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Oculus.VR">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Oculus.VR.dll</HintPath>
     </Reference>
     <Reference Include="OscCore.Runtime">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\OscCore.Runtime.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\OscCore.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon-DotNet">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Photon-DotNet.dll</HintPath>
     </Reference>
     <Reference Include="RenderHeads.AVProMovieCapture.Runtime">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\RenderHeads.AVProMovieCapture.Runtime.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\RenderHeads.AVProMovieCapture.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Sentry">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Sentry.dll</HintPath>
     </Reference>
     <Reference Include="Sentry.Microsoft.Bcl.AsyncInterfaces">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Buffers">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Buffers.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Collections.Immutable">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Collections.Immutable.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Memory">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Memory.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Numerics.Vectors">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Numerics.Vectors.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Reflection.Metadata">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Reflection.Metadata.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Runtime.CompilerServices.Unsafe">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Runtime.CompilerServices.Unsafe.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Text.Encodings.Web">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Text.Encodings.Web.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Text.Json">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Text.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.System.Threading.Tasks.Extensions">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.System.Threading.Tasks.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="Sentry.Unity.Android">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sentry.Unity.Android.dll</HintPath>
-    </Reference>
-    <Reference Include="Sigtrap.VrTunnellingPro">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Sigtrap.VrTunnellingPro.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ComponentModel.Composition">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.ComponentModel.Composition.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Data.Services.Client">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.Data.Services.Client.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IdentityModel">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.IdentityModel.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Json">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.Http.WinHttpHandler">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.Net.Http.WinHttpHandler.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Reflection.Context">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.Reflection.Context.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ServiceModel">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.ServiceModel.dll</HintPath>
-    </Reference>
-    <Reference Include="System.ServiceModel.Internals">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.ServiceModel.Internals.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Web.Services">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\System.Web.Services.dll</HintPath>
-    </Reference>
-    <Reference Include="Transmtn">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Transmtn.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Sentry.Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
     <Reference Include="UnhollowerBaseLib">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnhollowerBaseLib.dll</HintPath>
-    </Reference>
-    <Reference Include="UnhollowerRuntimeLib">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnhollowerRuntimeLib.dll</HintPath>
-    </Reference>
-    <Reference Include="UniTask">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UniTask.dll</HintPath>
-    </Reference>
-    <Reference Include="UniTask.Addressables">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UniTask.Addressables.dll</HintPath>
-    </Reference>
-    <Reference Include="UniTask.Linq">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UniTask.Linq.dll</HintPath>
-    </Reference>
-    <Reference Include="UniTask.TextMeshPro">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UniTask.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Unity.Burst.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst.Unsafe">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Unity.Burst.Unsafe.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnhollowerBaseLib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Unity.InputSystem.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Unity.Mathematics.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\Unity.Timeline.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AccessibilityModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.AccessibilityModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.AccessibilityModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.AIModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.AIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AndroidJNIModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.AndroidJNIModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.AndroidJNIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AnimationModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.AnimationModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.AnimationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ARModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.ARModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.ARModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AudioModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.AudioModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.AudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.ClothModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.ClothModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CrashReportingModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.CrashReportingModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.CrashReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DirectorModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.DirectorModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.DirectorModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DSPGraphModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.DSPGraphModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.DSPGraphModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GameCenterModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.GameCenterModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.GameCenterModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GridModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.GridModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.GridModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HotReloadModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.HotReloadModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.HotReloadModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Il2CppAssetBundleManager">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.Il2CppAssetBundleManager.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.Il2CppAssetBundleManager.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Il2CppImageConversionManager">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.Il2CppImageConversionManager.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.Il2CppImageConversionManager.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.ImageConversionModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.IMGUIModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.InputModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.InputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.JSONSerializeModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.JSONSerializeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.LocalizationModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.LocalizationModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.LocalizationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ParticleSystemModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.ParticleSystemModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PerformanceReportingModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.PerformanceReportingModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.PerformanceReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Physics2DModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.Physics2DModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.Physics2DModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PhysicsModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.PhysicsModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.ProfilerModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ScreenCaptureModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.ScreenCaptureModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.ScreenCaptureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SharedInternalsModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.SharedInternalsModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.SharedInternalsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteMaskModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.SpriteMaskModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.SpriteMaskModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteShapeModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.SpriteShapeModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.StreamingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.SubstanceModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SubsystemsModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.SubsystemsModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.SubsystemsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.TerrainModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.TerrainModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainPhysicsModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.TerrainPhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextCoreModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.TextCoreModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.TextRenderingModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.TextCoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TilemapModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.TilemapModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.TilemapModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TLSModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.TLSModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.TLSModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UI.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIElementsModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UIElementsModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UIElementsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UIModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UmbraModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UmbraModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UmbraModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UNETModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UNETModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UNETModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityAnalyticsModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UnityAnalyticsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityConnectModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UnityConnectModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UnityTestProtocolModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAudioModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestTextureModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestWWWModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VehiclesModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.VehiclesModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.VFXModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.VFXModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.VideoModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.VideoModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.VRModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.VRModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.WindModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.WindModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.XRModule">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\UnityEngine.XRModule.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.Collections">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Collections.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.Dynamics">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Dynamics.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.SDK3.Dynamics.Contact">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.SDK3.Dynamics.Contact.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.SDK3.Dynamics.PhysBone">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.SDK3.Dynamics.PhysBone.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.Udon">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.Udon.ClientBindings">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.ClientBindings.dll</HintPath>
-    </Reference>
-    <Reference Include="VRC.Udon.Common">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.Common.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\UnityEngine.VehiclesModule.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Udon.Security">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.Security.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.Udon.Security.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Udon.Serialization.AOT">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.Serialization.AOT.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.Udon.Serialization.AOT.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Udon.Serialization.OdinSerializer">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.Serialization.OdinSerializer.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.Udon.Serialization.OdinSerializer.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Udon.VM">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.VM.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.Udon.VM.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Udon.VRCWrapperModules">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.VRCWrapperModules.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.Udon.VRCWrapperModules.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Udon.Wrapper">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Udon.Wrapper.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.Udon.Wrapper.dll</HintPath>
     </Reference>
     <Reference Include="VRC.UI.Core">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.UI.Core.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.UI.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Elements">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.UI.Elements.dll</HintPath>
     </Reference>
     <Reference Include="VRC.UI.Shared">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.UI.Shared.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.UI.Shared.dll</HintPath>
     </Reference>
     <Reference Include="VRC.Utility">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRC.Utility.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRC.Utility.dll</HintPath>
     </Reference>
     <Reference Include="VRCCore-Editor">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRCCore-Editor.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRCCore-Editor.dll</HintPath>
     </Reference>
     <Reference Include="VRCCore-Standalone">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRCCore-Standalone.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRCCore-Standalone.dll</HintPath>
     </Reference>
     <Reference Include="VRCLog">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRCLog.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRCLog.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCSDK2">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRCSDK2.dll</HintPath>
     </Reference>
     <Reference Include="VRCSDK3">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRCSDK3.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRCSDK3.dll</HintPath>
+    </Reference>
+    <Reference Include="VRCSDK3A">
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRCSDK3A.dll</HintPath>
     </Reference>
     <Reference Include="VRCSDKBase">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\VRCSDKBase.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\VRCSDKBase.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>..\..\..\melonloader-1313\melonloader\etc\managed\websocket-sharp.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\melonloader\melonloader\etc\managed\websocket-sharp.dll</HintPath>
     </Reference>
   </ItemGroup>
 

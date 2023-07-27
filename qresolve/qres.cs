@@ -3,20 +3,42 @@ using VRC.SDKBase;
 using HarmonyLib;
 using MelonLoader;
 using qresolve;
+using System.Reflection;
 
 [assembly: MelonInfo(typeof(qres), "qResolve", "1.0.0.0", "Doomsickle")]
 [assembly: MelonGame("VRChat")]
 
 namespace qresolve;
 
-[HarmonyPatch(typeof(VRCUnityVideoPlayer), nameof(VRCUnityVideoPlayer.LoadURL))]
-[HarmonyPatch(typeof(VRC.SDK3.Video.Components.AVPro.VRCAVProVideoPlayer), nameof(VRC.SDK3.Video.Components.AVPro.VRCAVProVideoPlayer.LoadURL))]
-//[HarmonyPatch(typeof(VRC.SDK3.Video.Components.Base.BaseVRCVideoPlayer), nameof(VRC.SDK3.Video.Components.Base.BaseVRCVideoPlayer.LoadURL))]
 public class qres : MelonMod
 {
-    public override void OnInitializeMelon() => MelonLogger.Msg("mod initialized");
+    public override void OnInitializeMelon()
+    {
+        try
+        {
+            HarmonyInstance.Patch(typeof(VRCUnityVideoPlayer).GetMethod("LoadURL"),
+                new HarmonyMethod(typeof(qres).GetMethod(nameof(repl_url), BindingFlags.NonPublic | BindingFlags.Static)));
+            MelonLogger.Msg($"successfully patched method {nameof(VRCUnityVideoPlayer.LoadURL)} of class {typeof(VRCUnityVideoPlayer)}");
+        }
+        catch(Exception e)
+        {
+            MelonLogger.Msg($"failed to patch method {nameof(VRCUnityVideoPlayer.LoadURL)} of class {typeof(VRCUnityVideoPlayer)}: {e}");
+        }
 
-    static void Prefix(ref VRCUrl url)
+        try
+        {
+            HarmonyInstance.Patch(typeof(VRC.SDK3.Video.Components.AVPro.VRCAVProVideoPlayer).GetMethod("LoadURL"),
+                new HarmonyMethod(typeof(qres).GetMethod(nameof(repl_url), BindingFlags.NonPublic | BindingFlags.Static)));
+            MelonLogger.Msg($"successfully patched method {nameof(VRC.SDK3.Video.Components.AVPro.VRCAVProVideoPlayer.LoadURL)} of class {typeof(VRC.SDK3.Video.Components.AVPro.VRCAVProVideoPlayer)}");
+        }
+        catch (Exception e)
+        {
+            MelonLogger.Msg($"failed to patch method {nameof(VRC.SDK3.Video.Components.AVPro.VRCAVProVideoPlayer.LoadURL)} of class {typeof(VRC.SDK3.Video.Components.AVPro.VRCAVProVideoPlayer)}: {e}");
+        }
+        
+    }
+
+    private static void repl_url(ref VRCUrl url)
     {
         MelonLogger.Msg("load event fired");
         
